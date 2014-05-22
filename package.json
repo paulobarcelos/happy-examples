@@ -1,6 +1,6 @@
 {
   "name": "happy-toolkit-examples",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "author": "Paulo Barcelos",
   "description": "Examples of the Happy Toolkit.",
   "homepage": "https://github.com/paulobarcelos/happy-examples",
@@ -12,7 +12,7 @@
     "happy",
     "happy-toolkit"
   ],
-  "license": "MIT",
+  "license": "WTFPL",
   "repository": {
     "type": "git",
     "url": "https://github.com/paulobarcelos/happy-examples.git"
